@@ -21,6 +21,16 @@ It's not a toy demo: the 12 tickets I resolved simulate the kind of problems an 
 | Users | 50 (IT, Sales, Administration) |
 | Domain Controller | dc01-Martinlab |
 
+### Screenshots
+
+![Azure VM dc01-Martinlab: Windows Server 2022 Datacenter Azure Edition, resource group Helpdesk-lab](assets/01-azure-vm.png)
+
+![Server Manager on dc01-Martinlab, domain corp.martinlab.local](assets/02-server-manager.png)
+
+![Active Directory Users and Computers with the OUs Administracion, Empleados, Servidores, TI and Ventas](assets/03-active-directory-users.png)
+
+The Azure free trial has ended, so the VM no longer exists. These captures are what remains of the running environment.
+
 ### Repository structure
 
 ```
@@ -88,6 +98,16 @@ La idea no es una demo de juguete: los 12 tickets que resolví simulan problemas
 | Dominio | corp.martinlab.local |
 | Usuarios | 50 (TI, Ventas, Administración) |
 | Controlador de dominio | dc01-Martinlab |
+
+### Capturas
+
+![VM dc01-Martinlab en Azure: Windows Server 2022 Datacenter Azure Edition, grupo de recursos Helpdesk-lab](assets/01-azure-vm.png)
+
+![Administrador del servidor en dc01-Martinlab, dominio corp.martinlab.local](assets/02-server-manager.png)
+
+![Usuarios y equipos de Active Directory con las UO Administracion, Empleados, Servidores, TI y Ventas](assets/03-active-directory-users.png)
+
+La prueba gratuita de Azure terminó, así que la VM ya no existe. Estas capturas son lo que queda del entorno funcionando.
 
 ### Estructura del repositorio
 
