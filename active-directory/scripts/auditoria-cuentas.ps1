@@ -4,7 +4,7 @@
 .DESCRIPTION
     Exports inactive users, expired passwords and disabled accounts to CSV.
 .AUTHOR
-    Martin - github.com/TinchoLay
+    Martin - github.com/MartinChanca
 #>
 
 $outputPath = "C:\Auditoria"

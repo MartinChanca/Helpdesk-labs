@@ -4,7 +4,7 @@
 .DESCRIPTION
     Queries Security Event Log for failed logins (4625) and lockout events (4740).
 .AUTHOR
-    Martin - github.com/TinchoLay
+    Martin - github.com/MartinChanca
 #>
 
 Write-Host "=== LOCKOUT REPORT ===" -ForegroundColor Cyan

@@ -78,7 +78,7 @@ See [`active-directory/setup/`](active-directory/setup/) for the step-by-step de
 ### Author
 
 **Martín** — IT Support & Cybersecurity | SOC L1 track
-[LinkedIn](https://www.linkedin.com/in/martin-chancalay-902b543a8) · [GitHub](https://github.com/TinchoLay)
+[LinkedIn](https://www.linkedin.com/in/martin-chancalay-902b543a8) · [GitHub](https://github.com/MartinChanca)
 
 ---
 
@@ -156,4 +156,4 @@ La carpeta [`active-directory/setup/`](active-directory/setup/) tiene el paso a 
 ### Autor
 
 **Martín** — Soporte IT y ciberseguridad | Camino a SOC L1
-[LinkedIn](https://www.linkedin.com/in/martin-chancalay-902b543a8) · [GitHub](https://github.com/TinchoLay)
+[LinkedIn](https://www.linkedin.com/in/martin-chancalay-902b543a8) · [GitHub](https://github.com/MartinChanca)
